@@ -368,29 +368,6 @@ body {
   display: block;
 }
 
-/* --- Section Coup de cœur de l’auteur --- */
-.section-coupdecoeur {
-  background: rgba(229,9,20,0.08);
-  border: 2px dashed var(--color-primary);
-  margin-top: -2rem;
-  margin-bottom: 2rem;
-  box-shadow: 0 2px 12px var(--color-shadow);
-}
-/* Un peu plus de fun pour la section perso ! */
-.section-coupdecoeur .section-title {
-  color: var(--color-accent);
-  text-shadow: 0 2px 12px var(--color-accent);
-}
-.footer-credit {
-  font-size: 0.95rem;
-  color: var(--color-accent);
-  margin-top: 1.2rem;
-  text-align: center;
-  font-style: italic;
-}
-
-/* Astuce : on peut ajouter d'autres touches perso ici ! */
-
 @media (max-width: 900px) {
   .navbar-container { padding: 0 1rem; }
   .hero-content { padding: 2rem 1rem; }

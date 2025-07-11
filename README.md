@@ -43,7 +43,7 @@ Aucune dépendance ou compilation n’est nécessaire : tout est en HTML/CSS p
 
 ## Auteur
 
-Site réalisé par Alexis D. — Projet étudiant LBA
+Site réalisé par Alexis D. — Projet étudiant
 
 ## Remarques
 
